@@ -1,6 +1,4 @@
-Hello, I'm R0gu3 and I work in Cyber Security. I am very interested in Open-source sofrware,
-tools for better digital privacy, and course security tools. If you need a hand with anything let me know,
-always looking for ways to contribute to the community.
+Building and securing cool stuff
 
 
 <!---
